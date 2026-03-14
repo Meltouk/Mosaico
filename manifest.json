@@ -23,16 +23,16 @@
   "icons": [
     {
       "_comment6": "se cambio el nombre de la imagen",
-      "src": "192_icon.png",
+      "src": "192_icon.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
       
       "_comment6": "se cambio el nombre de la imagen",
-      "src": "512_icon.png",
+      "src": "512_icon.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ]
 }
